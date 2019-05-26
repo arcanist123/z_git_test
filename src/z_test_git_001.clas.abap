@@ -1,14 +1,14 @@
-class Z_TEST_GIT_001 definition
-  public
-  final
-  create public .
+CLASS z_test_git_001 DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
 
-public section.
-protected section.
-private section.
+  PUBLIC SECTION.
+  PROTECTED SECTION.
+  PRIVATE SECTION.
 ENDCLASS.
 
 
 
-CLASS Z_TEST_GIT_001 IMPLEMENTATION.
+CLASS z_test_git_001 IMPLEMENTATION.
 ENDCLASS.
